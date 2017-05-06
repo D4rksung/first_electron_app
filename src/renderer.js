@@ -1,1 +1,1 @@
-console.log('In renderer!');
+console.log('In renderer!')
